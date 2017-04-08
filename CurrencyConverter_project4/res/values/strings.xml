@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CurrencyConverter_project4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_japanese_yen">JapaneseYen</string>
+    <string name="title_activity_usdollar">USDollar</string>
+    <string name="title_activity_about_us">AboutUs</string>
+
+</resources>
